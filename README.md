@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdelrahman Abdelaleem Ali</h1>
 
-<!--
-**abdodev51-hash/abdodev51-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | C++ Learner | Information Systems Graduate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🇪🇬 From Egypt
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor's Degree in Information Systems
+- 💻 Frontend Developer
+- 📚 Currently learning C++
+- 🌱 Passionate about Web Development
+- 🚀 Always learning new technologies
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdodev51&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdodev51&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: abdodev51@gmail.com
+
+📱 Phone & WhatsApp: +20 11 4949 1982
+
+🌍 Location: Egypt
+
+📘 Facebook: https://www.facebook.com/abdelrhman.a.ghidan
+
+---
+
+⭐ Thanks for visiting my profile!
